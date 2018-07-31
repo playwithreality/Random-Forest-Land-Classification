@@ -4,3 +4,4 @@
 _S1A IW2 band before processing._
 
 ![](Random-Forest-Images/multilooked-vh.jpg)
+_S1A after multilooking_
