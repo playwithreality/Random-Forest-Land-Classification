@@ -71,9 +71,9 @@ The collocated data has been converted into three separate CSV formatted data se
 For Sentinel-1 RGB product land classification green color attribute is the most important for correct prediction followed by
 red color attribute and blue color attribute being the least important. 
 
-![](Random-Forest-Images/s1rgbvars.png)
+![](Random-Forest-Images/s1rgbvars.png)               
 _S1A RGB product color importances for making correct prediction_
 
 
-![](Random-Forest-Images/s1s2rgbvars.png)
-_S1 and S2 combined product attribute importances.
+![](Random-Forest-Images/s1s2rgbvars.png)                   
+_S1 and S2 combined product attribute importances._
