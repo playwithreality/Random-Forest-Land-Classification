@@ -59,3 +59,21 @@ _Corine2012 product of the study area_
 
 During Python processing Corine land classes have been converted to five major classes.
 
+# 6. Collocation of Products
+
+The collocated data has been converted into three separate CSV formatted data sets to be run on the random forest algorithm. Each CSV products has a total of 21,855,475 rows. Sentinel-1 product has three attributes as columns, red color, green color and blue color. Sentinel-2 product has 13 attributes in total corresponding to all of the Sentinel-2 bands. Sentinel-1 and Sentinel-2 collocated product has both attribute sets combined.
+
+# 7. Results
+
+
+## 7.1 Band Importances For Making Prediction
+
+For Sentinel-1 RGB product land classification green color attribute is the most important for correct prediction followed by
+red color attribute and blue color attribute being the least important. 
+
+![](Random-Forest-Images/s1rgbvars.png)
+_S1A RGB product color importances for making correct prediction_
+
+
+![](Random-Forest-Images/s1s2rgbvars.png)
+_S1 and S2 combined product attribute importances.
