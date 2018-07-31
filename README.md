@@ -27,10 +27,12 @@ _S1A after speckle filtering_
 ![](Random-Forest-Images/refined-lee-speckle-basic.png)          
 _Speckle filtering settings_
 
+
 ![](Random-Forest-Images/multilooked-vh.jpg)
 _S1A after multilooking_
 
 ![](Random-Forest-Images/subset-terrain-corrected.png)
+_Sentinel-1A product after terrain correction_
 
 ![](Random-Forest-Images/s1rgb.png)
 _S1A RGB product_
@@ -46,3 +48,13 @@ _S2B bands_
 
 ![](Random-Forest-Images/s1s2mix.png)
 _S2 B4 as red, S1 VH as green, S2 B2 as blue_
+
+# 5. Corine2012 Product
+Corine2012 product has been resampled from 100 m resolution to 20 m resolution to match
+Sentinel-1 product and Sentinel-2 product resolution. 
+
+![](Random-Forest-Images/corine12.png)
+_Corine2012 product of the study area_
+
+During Python processing Corine land classes have been converted to five major classes.
+
