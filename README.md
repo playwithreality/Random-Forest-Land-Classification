@@ -19,7 +19,7 @@ _S1A VH band after TOPS deburst
 ![](Random-Forest-Images/s1aspecklefiltered.png)
 _S1A after speckle filtering_
 
-![](Random-Forest-Images/refined-lee-speckle-basic.png)
+![](Random-Forest-Images/refined-lee-speckle-basic.png)          
 _Speckle filtering settings_
 
 ![](Random-Forest-Images/multilooked-vh.jpg)
@@ -30,10 +30,11 @@ _S1A after multilooking_
 ![](Random-Forest-Images/s1rgb.png)
 _S1A RGB product_
 
-![](Random-Forest-Images/s2rgb.png.png)
+![](Random-Forest-Images/s2rgb.png)
 _S2B RGB product with B4 as red, B3 as green and B2 as blue_
 
 ![](Random-Forest-Images/s2b-bands.jpg)
 _S2B bands_
 
 ![](Random-Forest-Images/s1s2mix.png)
+_S2 B4 as red, S1 VH as green, S2 B2 as blue_
