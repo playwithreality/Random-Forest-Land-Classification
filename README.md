@@ -1,3 +1,3 @@
 # Random Forest Land Classification
 
-![](Random-Forest-Images/S1A IW2 image VH.png)
+![](Random-Forest-Images/S1A_IW2_image_VH.png)
