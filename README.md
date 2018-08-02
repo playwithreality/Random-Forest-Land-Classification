@@ -47,7 +47,7 @@ _S2B bands_
 _S2 B4 as red, S1 VH as green, S2 B2 as blue_
 
 # 5. Corine2012 Product
-Corine2012 product has been resampled from 100 m resolution to 20 m resolution to match
+The Corine2012 product has been resampled from 100 m resolution to 20 m resolution to match
 Sentinel-1 product and Sentinel-2 product resolution. 
 
 ![](Random-Forest-Images/corine12.png)
