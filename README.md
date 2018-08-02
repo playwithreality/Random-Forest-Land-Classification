@@ -88,7 +88,7 @@ _Sentinel-2 bands relative importance for correctly predicting land class_
 
 ## 7.2 Confusion Matrices
 
-![](Random-Forest-Images/s1basicconfusion.png)      
+![](Random-Forest-Images/s1basicnewconfusion.png)      
 _Sentinel-1 VV and VH sigma0 confusion matrix_
 
 ![](Random-Forest-Images/s1rgbconfusion.png)      
