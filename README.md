@@ -4,7 +4,7 @@
 # 1. Overview
 
 Using ESA SNAP toolbox together with Sklearn and Jupyter notebook to perform land
-classification over Finland using Random Forest algorithm. 
+classification over Finland. Random Forest algorithm has been used to perform the land classification. 
 
 # 2. Sentinel-1A Product
 
