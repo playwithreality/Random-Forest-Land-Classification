@@ -71,7 +71,7 @@ The collocated data has been converted into three separate CSV formatted data se
 ![](Random-Forest-Images/results-new.png)       
 _Land class prediction accuracy results on 0.3 ratio test data with 20 trees_
 
-## 7.1 Band Importances For Making Prediction
+## 7.1 Band Importances For Making Predictions
 
 For Sentinel-1 RGB product land classification green color attribute is the most important for correct prediction followed by
 red color attribute and blue color attribute being the least important. 
