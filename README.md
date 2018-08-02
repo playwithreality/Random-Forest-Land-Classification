@@ -85,7 +85,7 @@ B1 = red, B2 = green, B3 = blue_
 
 ![](Random-Forest-Images/s1s2rgbvars.png)                      
 _S1 and S2 RGB product attribute importances,
-in figure B1 = sentinel-2 B4, B2 = Sentinel-1 VH, B1 = Sentinel-2 B2_
+in figure B1 = sentinel-2 B4, B2 = Sentinel-1 VH, B3 = Sentinel-2 B2_
 
 ![](Random-Forest-Images/s2bandsvars.png)      
 _Sentinel-2 bands relative importance for correctly predicting land class_
