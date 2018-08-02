@@ -42,7 +42,7 @@ _S1A RGB product_
 ![](Random-Forest-Images/s2rgb.png)
 _S2B RGB product with B4 as red, B3 as green and B2 as blue_
 
-![](Random-Forest-Images/s2b-bands.jpg)
+![](Random-Forest-Images/s2b-bands.jpg)                         
 _S2B bands_
 
 # 4. Sentinel-1A and Sentinel-2B RGB Mix
