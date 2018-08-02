@@ -20,7 +20,7 @@ _S1A IW2 band before processing_
 _S1A product after radiometric calibration_
 
 ![](Random-Forest-Images/after-deburst-vh.jpg)  
-_S1A VH band after TOPS deburst
+_S1A VH band after TOPS deburst_
 
 ![](Random-Forest-Images/multilooked-vh.jpg)
 _S1A after multilooking_
