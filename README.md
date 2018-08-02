@@ -71,7 +71,7 @@ The collocated data has been converted into three separate CSV formatted data se
 
 # 7. Results
 
-![](Random-Forest-Images/results.png)
+![](Random-Forest-Images/results-new.png)       
 _Land class prediction accuracy results on test data with 20 trees model_
 
 ## 7.1 Band Importances For Making Prediction
@@ -79,11 +79,11 @@ _Land class prediction accuracy results on test data with 20 trees model_
 For Sentinel-1 RGB product land classification green color attribute is the most important for correct prediction followed by
 red color attribute and blue color attribute being the least important. 
 
-![](Random-Forest-Images/s1rgbvars.png)               
+![](Random-Forest-Images/s1rgbvars.png)                
 _Sentinel-1 RGB attributes relative importance for correctly predicting land class_
 
-![](Random-Forest-Images/s1s2rgbvars.png)                   
+![](Random-Forest-Images/s1s2rgbvars.png)                      
 _S1 and S2 RGB product attribute importances_
 
-![](Random-Forest-Images/s2bandvars.png)
+![](Random-Forest-Images/s2bandsvars.png)      
 _Sentinel-2 bands relative importance for correctly predicting land class_
