@@ -87,5 +87,9 @@ in figure B1 = sentinel-2 B4, B2 = Sentinel-1 VH, B3 = Sentinel-2 B2_
 _Sentinel-2 bands relative importance for correctly predicting land class_
 
 ## 7.2 Confusion Matrices
-![](Random-Forest-Images/s2confusion.png)      
+
+![](Random-Forest-Images/s1s2confusion-new.png)      
+_Sentinel-1 and Sentinel-2 RGB mix confusion matrix_
+
+![](Random-Forest-Images/s2confusion-new-new.png)      
 _Sentinel-2 confusion matrix_
