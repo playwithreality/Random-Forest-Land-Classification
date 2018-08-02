@@ -87,3 +87,5 @@ _S1 and S2 RGB product attribute importances_
 
 ![](Random-Forest-Images/s2bandsvars.png)      
 _Sentinel-2 bands relative importance for correctly predicting land class_
+
+## 7.2 Confusion Matrices
