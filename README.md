@@ -63,7 +63,7 @@ During Python processing Corine land classes have been converted to five major c
 
 # 6. Collocation of Products
 
-The collocated data has been converted into three separate CSV formatted data sets to be run on the random forest algorithm. Each CSV products has a total of 21,855,475 rows. Sentinel-1 product has three attributes as columns, red color, green color and blue color. Sentinel-2 product has 13 attributes in total corresponding to all of the Sentinel-2 bands. Sentinel-1 and Sentinel-2 collocated product has both attribute sets combined.
+The collocated data has been converted into three separate CSV formatted data sets to be run on the random forest algorithm. Each CSV products has a total of 21,855,475 rows. Sentinel-1 product has three attributes as columns, red color, green color and blue color. Sentinel-2 product has 13 attributes in total corresponding to all of the Sentinel-2 bands. Sentinel-1 and Sentinel-2 RGB product has three attributes and Sentinel-1 VV+VH has two attributes.
 
 # 7. Results
 
