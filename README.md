@@ -57,7 +57,13 @@ Sentinel-1 product and Sentinel-2 product resolution.
 ![](Random-Forest-Images/corine12.png)
 _Corine2012 product of the study area_
 
-During Python processing Corine land classes have been converted to five major classes.
+During Python processing Corine land classes have been converted to five major classes:
+* Artificial surfaces
+* Agricultural areas
+* Forest and semirural areas
+* Wetlands
+* Water bodies
+
 
 # 6. Collocation of Products
 
@@ -65,6 +71,8 @@ The collocated data has been converted into three separate CSV formatted data se
 
 # 7. Results
 
+![](Random-Forest-Images/results.png)
+_Land class prediction accuracy results on test data with 20 trees model_
 
 ## 7.1 Band Importances For Making Prediction
 
@@ -72,8 +80,10 @@ For Sentinel-1 RGB product land classification green color attribute is the most
 red color attribute and blue color attribute being the least important. 
 
 ![](Random-Forest-Images/s1rgbvars.png)               
-_S1A RGB product color importances for making correct prediction_
-
+_Sentinel-1 RGB attributes relative importance for correctly predicting land class_
 
 ![](Random-Forest-Images/s1s2rgbvars.png)                   
-_S1 and S2 combined product attribute importances._
+_S1 and S2 RGB product attribute importances_
+
+![](Random-Forest-Images/s2bandvars.png)
+_Sentinel-2 bands relative importance for correctly predicting land class_
