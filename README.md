@@ -80,10 +80,12 @@ For Sentinel-1 RGB product land classification green color attribute is the most
 red color attribute and blue color attribute being the least important. 
 
 ![](Random-Forest-Images/s1rgbvars.png)                
-_Sentinel-1 RGB attributes relative importance for correctly predicting land class_
+_Sentinel-1 RGB attributes relative importance for correctly predicting land class.
+B1 = red, B2 = green, B3 = blue_
 
 ![](Random-Forest-Images/s1s2rgbvars.png)                      
-_S1 and S2 RGB product attribute importances_
+_S1 and S2 RGB product attribute importances,
+in figure B1 = sentinel-2 B4, B2 = Sentinel-1 VH, B1 = Sentinel-2 B2_
 
 ![](Random-Forest-Images/s2bandsvars.png)      
 _Sentinel-2 bands relative importance for correctly predicting land class_
