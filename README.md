@@ -22,15 +22,11 @@ _S1A product after radiometric calibration_
 ![](Random-Forest-Images/after-deburst-vh.jpg)  
 _S1A VH band after TOPS deburst
 
-![](Random-Forest-Images/s1aspecklefiltered.png)
-_S1A after speckle filtering_
-
-![](Random-Forest-Images/refined-lee-speckle-basic.png)          
-_Speckle filtering settings_
-
-
 ![](Random-Forest-Images/multilooked-vh.jpg)
 _S1A after multilooking_
+
+![](Random-Forest-Images/s1aspecklefiltered.png)              
+_S1A after speckle filtering using Refined Lee filter_
 
 ![](Random-Forest-Images/subset-terrain-corrected.png)
 _Sentinel-1A product after terrain correction_
