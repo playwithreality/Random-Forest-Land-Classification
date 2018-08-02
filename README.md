@@ -68,7 +68,7 @@ The collocated data has been converted into three separate CSV formatted data se
 # 7. Results
 
 ![](Random-Forest-Images/results-new.png)       
-_Land class prediction accuracy results on test data with 20 trees_
+_Land class prediction accuracy results on 0.3 ratio test data with 20 trees_
 
 ## 7.1 Band Importances For Making Prediction
 
