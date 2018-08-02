@@ -11,7 +11,8 @@ classification over Finland. Random Forest algorithm with 20 trees has been util
 ![](Random-Forest-Images/study-area.png) 
 _Study area_
 
-![](Random-Forest-Images/latlong.png)   
+![](Random-Forest-Images/latlong.png)
+_Study area latitude and longitude limits corresponding x and y coordinates._
 
 ![](Random-Forest-Images/S1AIW2imageVH.png)    
 _S1A IW2 band before processing_
